@@ -49,7 +49,7 @@ namespace ConsoleApplication1
         public int temp;
         public int windSpeed;
         public Weather weather;
-        static Random r = new Random(1245);
+        static Random r = new Random();
 
         public MetioData()
         {
